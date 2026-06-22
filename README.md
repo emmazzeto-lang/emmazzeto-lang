@@ -1,6 +1,6 @@
 <h1 align="center">Emerson Mazzeto</h1>
 
-<h3 align="center">Software Developer | Ciência & Engenharia de Computação</h3>
+<h3 align="center">Software Developer | Engenharia de Dados | Ciência & Engenharia de Computação</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emerson-mazzeto" target="_blank">
@@ -13,7 +13,7 @@
 
 ---
 
-> **Sobre mim:** Graduando simultaneamente em **Ciência da Computação** (UNISAGRADO) e **Engenharia de Computação** (UNIVESP). Atualmente sou Estagiário de Desenvolvimento na **Líderes Jr** e possuo sólido background em governança de dados governamentais (**IBGE**). Foco na construção de arquiteturas limpas, desenvolvimento multiplataforma (Web/Mobile) e soluções assistivas de alto impacto.
+> **Sobre mim:** Graduando simultaneamente em **Ciência da Computação** (UNISAGRADO) e **Engenharia de Computação** (UNIVESP). Atualmente sou Estagiário de Desenvolvimento na **Líderes Jr** e possuo sólido background em governança de dados governamentais (**IBGE**). Foco na construção de arquiteturas limpas, desenvolvimento multiplataforma (Web/Mobile), engenharia de dados e soluções assistivas de alto impacto.
 
 ---
 
@@ -40,10 +40,10 @@
 
 | Projeto | Descrição Técnica & Objetivo | Status / Stack |
 | :--- | :--- | :--- |
+| 📈 **Motor de Tendências B3** | Pipeline ETL automatizado de dados financeiros. Integração com API, modelagem matemática de indicadores e carga em banco relacional. | ✅ **Concluído** <br> *Python, Pandas, PostgreSQL* |
 | 📱 **[Comunica+]** | Aplicativo mobile focado na comunicação assistiva de crianças autistas não-verbais. Implantação de persistência local otimizada. | 🟢 **Na Play Store** <br> *Flutter, SQLite* |
 | 🧠 **Projeto FALE** | Arquitetura de ecossistema assistivo para ELA. Processamento de visão computacional em tempo real e extração de biomarcadores. | 🔬 **Pesquisa** <br> *.NET MAUI, MediaPipe* |
 | 🌐 **Unistágio & Web** | Desenvolvimento de aplicações web interativas (Painéis de Administração/Usuário) direcionadas a impacto social e acadêmico. | 🤝 **Colaborativo** <br> *React* |
 | 🧪 **Gestão Química** | Plataforma automatizada de gerenciamento de estoque e controle interno, idealizada para o projeto integrador (UNIVESP). | ✅ **MVP Concluído** <br> *Lovable, Supabase* |
 
 ---
-
